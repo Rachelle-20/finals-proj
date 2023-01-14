@@ -1,0 +1,53 @@
+/*////////////////////education///////////////////////////////*/
+
+
+h1{
+    color: #375e97;
+    font-family: Georgia;
+    font-size: 2.8em;
+    border-bottom: 5px dotted;
+    text-align: center;
+}
+p{
+    font-weight: bold;
+    color: #999999;
+    font-size: 22px;
+}
+.content{
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: justify;
+    
+}
+.content2{
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+}
+.content3{
+    color: rgb(204, 118, 20);
+    font-size: 25PX;
+}
+.content4{
+    color:black;
+    font-size: 25PX;
+    font-weight: 400;
+}
+h2{
+     font-size: 1.5em;
+}
+ul{
+    background-color: #eeeeee;
+    border: 5px solid rgb(73, 61, 73);
+    padding: 20px;
+    
+}
+a{
+    color: #82b8de;
+}
+a:hover{
+    color: #2b99e6;
+    text-decoration: none;
+}  
+
